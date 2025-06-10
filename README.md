@@ -4,4 +4,4 @@ Aguardando aprovação.
 
 Comentários e maiores detalhes de funcionamento estão no próprio notebook enquanto aguardando aprovação.
 
-- Diagrama de Radiação da Antena (arquivo 'Catálogo Antena Colinear 860MHz-930MHz)
+- Diagrama de Radiação da Antena (arquivo 'Catálogo Antena Colinear 890MHz-960MHz)
